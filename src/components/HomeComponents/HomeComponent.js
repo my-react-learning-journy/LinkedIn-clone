@@ -15,9 +15,13 @@ export default function HomeComponent() {
 }
 
 const Wrapper = styled.div`
-    display: flex;
-    justify-content: space-between;
-    width: 75%;
-    margin: 1rem auto;
+  position: absolute;
+  left: 13rem;
+  display: flex;
+  justify-content: space-between;
+
+  width: 75%;
+  margin: 1rem auto;
+  top: 5rem;
 `;
 
