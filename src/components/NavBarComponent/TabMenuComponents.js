@@ -69,10 +69,10 @@ export default function TabMenuComponents() {
 
 const Wrapper = styled.div`
   position: absolute;
-  width: 60%;
+  width: 48%;
   display: flex;
   justify-content: right;
-  left: 16.5rem;
+  left: 25rem;
 `;
 
 const Div = styled.div`

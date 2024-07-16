@@ -17,8 +17,8 @@ export default function NavBarComponent() {
 }
 
 const Wrapper = styled.div`
-  // background-color: blue;
-  height: 50px;
+  background-color: white;
+  height: 4.5rem;
   position: fixed;
   width: 100%;
   z-index: 1;
