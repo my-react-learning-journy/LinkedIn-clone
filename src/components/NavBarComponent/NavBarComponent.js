@@ -17,7 +17,7 @@ export default function NavBarComponent() {
 }
 
 const Wrapper = styled.div`
-  background-color: blue;
+  // background-color: blue;
   height: 50px;
   position: fixed;
   width: 100%;

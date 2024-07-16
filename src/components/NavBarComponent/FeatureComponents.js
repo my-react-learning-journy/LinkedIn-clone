@@ -12,7 +12,7 @@ export default function FeatureComponents() {
 
 const Wrapper = styled.div`
   position: absolute;
-  left: 70rem;
+  left: 60rem;
   display: flex;
   justify-content: space-between;
 `;
